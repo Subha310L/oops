@@ -1,0 +1,6 @@
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\bin\Debug\Oops1.exe.config
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\bin\Debug\Oops1.exe
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\bin\Debug\Oops1.pdb
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\obj\Debug\LibraryOops.csproj.CoreCompileInputs.cache
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\obj\Debug\Oops1.exe
+C:\Users\SubhaLakshmiLakshman\Downloads\oops-main\obj\Debug\Oops1.pdb
